@@ -1,17 +1,16 @@
 Neighborhood,Restaurant,Price ($),Rating (out of 5)
-Carrboro,401 Main,19,4.5
-Carrboro,Luna Rotisserie,18,4.5
-Carrboro,Gourmet Kingdom,16,4.1
+Carrboro,401 Main,25,4.5
+Carrboro,Luna Rotisserie,20,4.5
 Carrboro,Breakaway Carrboro,23,4.5
-Carrboro,Jade Palace Restaurant,15,4.1
 Carrboro,Acme Food & Beverage Co,28,4.4
 Carrboro,Spotted Dog Restaurant,21,4.4
-Carrboro,Carrburritos,12,4.6
 Carrboro,Thai Station Restaurant,17,4.4
 Carrboro,Tandem,50,4.4
 Carrboro,Armadillo Grill,18,4
-Carrboro,Grata Diner,15,4.3
 Carrboro,Venable Rotisserie Bistro,30,4.5
+Carrboro,Pizzeria Mercato,27,4.7
+Carrboro,Glasshalffull,43,4.6
+Carrboro,La Montaña,37,4.7
 E Franklin,Time-Out Restaurant,13,4.1
 E Franklin,Hibachi & Company,18,4.3
 E Franklin,Wheat,20,4.7
@@ -37,3 +36,4 @@ W Franklin,Spicy 9 Sushi Bar & Asian Restaurant,17,4.2
 W Franklin,Pantana Bob's,19,4.2
 W Franklin,Chimney Indian Kitchen,22,4.4
 W Franklin,Blue's on Franklin,20,4
+W Franklin,Pho Happiness,15,4.2
